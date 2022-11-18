@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 import oceanxLogoUrl from "@/assets/oceanx-logo.png";
 </script>
 

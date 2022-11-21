@@ -51,6 +51,7 @@ nav {
   border-top-left-radius: 10px;
   border-bottom-left-radius: 10px;
   text-decoration: none;
+  margin-right: -1px; /* safari fix */
 }
 .active {
   color: #00253b;
